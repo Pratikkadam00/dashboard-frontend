@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # dashboard-frontend
 Frontend Dashboard built in react 
 =======
@@ -77,4 +78,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 06396a7 (Initialize project using Create React App)
+<<<<<<< HEAD
 >>>>>>> e60c845 (added)
+=======
+=======
+# dashboard-frontend
+Frontend Dashboard built in react 
+>>>>>>> 1350ac1 (Initial commit)
+>>>>>>> 230ac3f (Initial commit)
